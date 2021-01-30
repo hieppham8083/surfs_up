@@ -4,9 +4,9 @@
 ## Challenge
 - Calculate and print out the summary statistics for June and  Decemeber temperatures.
 - June Summary Statistic:
-![alt text](../main/June_statistics .png "June_statistics")
+![alt text](../main/June_statistics.png "June_statistics")
 - December Summary Statistic:
-![alt text](../main/Dec_statistics .png "Dec_statistics")
+![alt text](../main/Dec_statistics.png "Dec_statistics")
 
 ## Results
 - Comparing temperatures between the month of June and December.
