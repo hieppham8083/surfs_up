@@ -11,4 +11,5 @@
 ## Results
 - Comparing temperatures between the month of June and December.
 - Comparing the summary statistics for June and  Decemeber temperatures.
--  From these data we can decide how to build the shop.
+- From these data we can decide how to build the shop.
+- SurfsUp test results: Refer to [SurfsUp_Challenge](../main/SurfsUp_Challenge.ipynb) 
