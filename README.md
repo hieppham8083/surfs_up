@@ -1,5 +1,5 @@
 # surfs_up
-- Analyzing weather data using jupyter notebook and create a a Flask application. Refer to [climate_analysis.ipynb](../main/climate_analysis.ipynb) and [app.py](../main/app.py)
+- Analyzing weather data using jupyter notebook and create a Flask application. Refer to [climate_analysis.ipynb](../main/climate_analysis.ipynb) and [app.py](../main/app.py)
 
 ## Challenge
 - Calculate and print out the summary statistics for June and  Decemeber temperatures.
